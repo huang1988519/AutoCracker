@@ -16,6 +16,14 @@
   ``` shell
   scp ~/Desktop/autoCracker.sh root@100.85.109.167:/var/root/autoCracker.sh
   ```
+* 登录到手机,记得换成自己的ip地址
+ ```shell
+ ssh root@100.85.109.167
+ ```
+* 输入手机root密码
+ ```
+ 例: alpine,如果你也一样懒的需改
+ ```
 
 * 增加执行权限  
   ``` shell
